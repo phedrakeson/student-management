@@ -6,10 +6,16 @@ import { environment } from 'src/environments/environment';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { AddStudentComponent } from './student/add-student/add-student.component';
+import { EditStudentComponent } from './student/edit-student/edit-student.component';
+import { StudentListComponent } from './student/student-list/student-list.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AddStudentComponent,
+    EditStudentComponent,
+    StudentListComponent
   ],
   imports: [
     BrowserModule,
