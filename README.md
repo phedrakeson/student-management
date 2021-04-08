@@ -1,27 +1,26 @@
-# StudentManagement
+# Weather App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+![GitHub repo size](https://img.shields.io/github/repo-size/phedrakeson/student-management?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/phedrakeson/student-management?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/phedrakeson/student-management?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/phedrakeson/student-management?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/phedrakeson/student-management?style=for-the-badge)
 
-## Development server
+![](https://i.gyazo.com/f1cd7cc8d1dafa0a859a056756bdd164.gif)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> Sistema para gerenciar estudantes, feito com Angular 11 - Reactive Forms - noSQL (Firebase).
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📫 Contribuindo para o Weather App
+Para contribuir com Weather App, siga estas etapas:
 
-## Build
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
