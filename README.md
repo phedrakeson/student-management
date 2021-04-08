@@ -11,7 +11,7 @@
 > Sistema para gerenciar estudantes, feito com Angular 11 - Reactive Forms - noSQL (Firebase).
 
 
-## 📫 Contribuindo para o Weather App
+## 📫 Contribuindo para o Student Management
 Para contribuir com Weather App, siga estas etapas:
 
 1. Bifurque este repositório.
@@ -21,6 +21,8 @@ Para contribuir com Weather App, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+### 😁 Obrigado pelo apoio, [positronx](https://www.positronx.io/angular-7-firebase-5-crud-operations-with-reactive-forms/)!
 
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
