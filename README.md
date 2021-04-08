@@ -1,4 +1,4 @@
-# Weather App
+# Student Management
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/phedrakeson/student-management?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/phedrakeson/student-management?style=for-the-badge)
