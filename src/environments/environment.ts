@@ -11,7 +11,7 @@ export const environment = {
     projectId: "student-managament-d9380",
     storageBucket: "student-managament-d9380.appspot.com",
     messagingSenderId: "694671887427",
-    appId: "1:694671887427:web:b64f7f24e64860b39598f6"
+    appId: "1:694671887427:web:3a5e7d8a6fd98b229598f6"
   }
 };
 
