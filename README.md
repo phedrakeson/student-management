@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/phedrakeson/student-management?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/phedrakeson/student-management?style=for-the-badge)
 
-![](https://i.gyazo.com/f1cd7cc8d1dafa0a859a056756bdd164.gif)
+![Ilustração da aplicação](https://i.gyazo.com/f1cd7cc8d1dafa0a859a056756bdd164.gif)
 
 > Sistema para gerenciar estudantes, feito com Angular 11 - Reactive Forms - noSQL (Firebase).
 
